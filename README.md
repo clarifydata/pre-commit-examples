@@ -1,2 +1,2 @@
 # pre-commit-examples
-Example config files for pre-commit framework
+Example config files for pre-commit framework.
